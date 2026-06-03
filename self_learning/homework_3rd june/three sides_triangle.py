@@ -1,3 +1,4 @@
+#WAP to check three sides form a triangle or not
 a = float(input("Enter first side: "))
 b = float(input("Enter second side: "))
 c = float(input("Enter third side: "))
