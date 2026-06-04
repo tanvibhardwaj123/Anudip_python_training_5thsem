@@ -1,4 +1,4 @@
-[15:03, 03/06/2026] Tanvi....😘: #Wap to calculate simple interest and validate the data if necessary
+ #Wap to calculate simple interest and validate the data if necessary
 principle = float(input("enter the principle amount"))
 Time = float(input("enter the time "))
 Rate = float(input("enter the Rate "))
